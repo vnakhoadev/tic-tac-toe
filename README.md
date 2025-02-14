@@ -14,7 +14,7 @@ This is a simple Tic-Tac-Toe game built with React and TailwindCSS using Vite as
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/tic-tac-toe-game.git
+   git clone https://github.com/vnakhoadev/tic-tac-toe.git
    ```
 
 2. Navigate to the project directory:
