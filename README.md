@@ -19,7 +19,7 @@ This is a simple Tic-Tac-Toe game built with React and TailwindCSS using Vite as
 
 2. Navigate to the project directory:
    ```bash
-   cd tic-tac-toe-game
+   cd tic-tac-toe-game/src
    ```
 
 3. Install dependencies:
