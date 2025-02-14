@@ -47,3 +47,5 @@ This is a simple Tic-Tac-Toe game built with React and TailwindCSS using Vite as
 
 ## License
 This project is licensed under the MIT License.
+
+## Link demo (deploy vercel): https://tic-tac-toe-one-sooty-86.vercel.app
