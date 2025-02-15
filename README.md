@@ -29,17 +29,18 @@ This is a simple Tic-Tac-Toe game built with React and TailwindCSS using Vite as
    npm install
    ```
 
+4. If the @headlessui/react library is not yet installed, install it (skip if it's already installed):
+   ```bash
+   npm install @headlessui/react
+   ```
+
 ## Running the Application
 
-4. Start the development server:
+5. Start the development server:
    ```bash
    npm run dev
    ```
    
-5. If the @headlessui/react library is not yet installed, install it (skip if it's already installed):
-  ```bash
-   npm install @headlessui/react
-   ```
 
 6. Open your browser and visit:
    ```
